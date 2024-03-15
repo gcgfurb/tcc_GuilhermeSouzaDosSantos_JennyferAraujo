@@ -10,6 +10,6 @@ Material relacionado com museu já orientado em TCCs:
 
 ## 2024-03-15 - 18:01
 
-![alt text](RetroSC_1.jpg)  
-[text](RetroSC_2.MOV)  
-<video controls src="RetroSC_3.mp4" title="Title"></video>  
+![RetroSC_1.jpg](RetroSC_1.jpg)  
+[RetroSC_2.MOV](RetroSC_2.MOV)  
+[RetroSC_3.mp4](RetroSC_3.mp4)  
