@@ -7,3 +7,9 @@ Material de TCC1: [GuilhermeSouzaDosSantos_JennyferAraujo](GuilhermeSouzaDosSant
 Material relacionado com museu já orientado em TCCs:
 <https://github.com/gcgfurb/tcc_HenriqueDelegrego/blob/master/tcc_bcc_2023_1_HenriqueDelegrego/Textos/tcc_bcc_2023_1_HenriqueDelegrego-VF.pdf>  
 <https://github.com/gcgfurb/tcc_JulioVicenteBrych/blob/master/tcc_bcc_2023_2_JulioVicenteBrych/Textos/tcc_bcc_2023_02_JulioVicenteBrych-VF.pdf>  
+
+## 2024-03-15 - 18:01
+
+![alt text](RetroSC_1.jpg)  
+[text](RetroSC_2.MOV)  
+<video controls src="RetroSC_3.mp4" title="Title"></video>  
