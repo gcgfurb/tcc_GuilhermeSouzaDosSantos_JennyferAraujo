@@ -13,3 +13,8 @@ Material relacionado com museu já orientado em TCCs:
 ![RetroSC_1.jpg](RetroSC_1.jpg)  
 [RetroSC_2.MOV](RetroSC_2.MOV)  
 [RetroSC_3.mp4](RetroSC_3.mp4)  
+
+## 2024-03-26 - 21:03
+
+Envia a parte de contextualização. Revisei, e enviei para ajustes.  
+[text](2023-03-26_PreProjeto.docx)  
