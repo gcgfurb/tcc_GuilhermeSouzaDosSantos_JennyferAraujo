@@ -17,9 +17,9 @@ Material relacionado com museu já orientado em TCCs:
 ## 2024-03-26 - 21:03
 
 Envia a parte de contextualização. Revisei, e enviei para ajustes.  
-[text](2023-03-26_PreProjeto.docx)  
+[2023-03-26_PreProjeto.docx](2023-03-26_PreProjeto.docx)  
 
 ## 2024-04-01 - 20:05
 
 Material que está no DSC das peças do acervo do museu de tecnologia.  
-[text](DSC_MaterialMuseu.MOV)  
+[DSC_MaterialMuseu.MOV](DSC_MaterialMuseu.MOV)  
