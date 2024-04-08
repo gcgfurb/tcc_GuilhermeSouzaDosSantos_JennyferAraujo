@@ -23,3 +23,7 @@ Envia a parte de contextualização. Revisei, e enviei para ajustes.
 
 Material que está no DSC das peças do acervo do museu de tecnologia.  
 [DSC_MaterialMuseu.MOV](DSC_MaterialMuseu.MOV)  
+
+## 2024-04-08 - 17:35
+
+[2023-04-04_ReuniaoMiguel.pdf](2023-04-04_ReuniaoMiguel.pdf)  
