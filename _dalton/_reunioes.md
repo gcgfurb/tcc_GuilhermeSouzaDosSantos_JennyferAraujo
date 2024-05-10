@@ -27,3 +27,9 @@ Material que está no DSC das peças do acervo do museu de tecnologia.
 ## 2024-04-08 - 17:35
 
 [2023-04-04_ReuniaoMiguel.pdf](2023-04-04_ReuniaoMiguel.pdf)  
+
+## 2024-05-10 - 12:34
+
+Museu montado pelo ex-aluno do DSC.  
+
+[MuseuComputacao](MuseuComputacao)  
