@@ -33,3 +33,30 @@ Material que está no DSC das peças do acervo do museu de tecnologia.
 Museu montado pelo ex-aluno do DSC.  
 
 [MuseuComputacao](MuseuComputacao)  
+
+## 2024-08-21 - 22:03
+
+### Guilherme
+
+Organizou objetivos e requisitos  
+Protótipo de telas Figma  
+
+### Jennyfer
+
+Firebase BD: uma base e algumas tabelas  
+ReactNative: exemplo de CRUD  
+
+### Dalton
+
+Comentários:  
+
+- não precisar ter login para o usuário Visitante só o usuário Administrador  
+- se concentrar nas funcionalidades e telas do usuário Visitante, deixar por enquanto o CRUD da base direto no Firebase  
+- despois fazer o CRUD de administrador no APP  
+- ter poucas funções mas se mais "moderno"  
+- deixar por final o requisito: acessibilidade, mas se já tiver alguma algo de acessibilidade nos exemplos, usar  
+- deixar por final o requisito: RA  
+
+Usar proposta de telas:  
+[2023-04-04_ReuniaoMiguel.pdf](2023-04-04_ReuniaoMiguel.pdf)  
+Ter: consulta, linha tempo, QRCode ...  
