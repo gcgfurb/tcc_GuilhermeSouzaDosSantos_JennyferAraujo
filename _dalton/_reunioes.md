@@ -58,5 +58,5 @@ Comentários:
 - deixar por final o requisito: RA  
 
 Usar proposta de telas:  
-[2023-04-04_ReuniaoMiguel.pdf](2023-04-04_ReuniaoMiguel.pdf)  
+[2024-08-21_reuniao.pdf](2024-08-21_reuniao.pdf)  
 Ter: consulta, linha tempo, QRCode ...  
