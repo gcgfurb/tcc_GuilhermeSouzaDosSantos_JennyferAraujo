@@ -60,3 +60,16 @@ Comentários:
 Usar proposta de telas:  
 [2024-08-21_reuniao.pdf](2024-08-21_reuniao.pdf)  
 Ter: consulta, linha tempo, QRCode ...  
+
+## 2024-09-04 - 23:12
+
+- imagem na ficha e no Firebase
+- ficha com texto longo - scroll
+- API QRCode atualizar
+- QRCode apontar para ficha
+- linha do tempo pesquisa por data
+
+Cadastro direto no Firebase .. telas HTML para CRUD
+Opção de peças expostas ou não
+Login opcional do aluno para postar que ganhou na gicana na rede social
+Tem Quiz em forma de gincana. Usar QRCode para validar as tarefas da atividade.
