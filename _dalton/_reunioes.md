@@ -71,7 +71,7 @@ Ter: consulta, linha tempo, QRCode ...
 
 Cadastro direto no Firebase .. telas HTML para CRUD
 Opção de peças expostas ou não
-Login opcional do aluno para postar que ganhou na gicana na rede social
+Login opcional do aluno para postar que ganhou na gincana na rede social
 Tem Quiz em forma de gincana. Usar QRCode para validar as tarefas da atividade.
 
 ## 2024-09-11
@@ -83,12 +83,15 @@ Ontologia para cadastrar acervo de museu tecnológico
 
 ### Ficha
 
-Nome da Peça:  
-Fabricante:  
-Ano:  
+*Categoria: memoria, placa mãe, ...  
+*Nome da Peça: DDR 3  
+Fabricante: Intel  
+*Ano:1989  
 Descrição curta:  
 Curiosidade:  
 
-_ para saber mais
+_ para saber mais  
 Descrição longa:  
 Imagens:  
+
+Problema: gerar QRCode de dados do Firebase usando ID dos itens  
