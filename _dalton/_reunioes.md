@@ -84,14 +84,41 @@ Ontologia para cadastrar acervo de museu tecnológico
 ### Ficha
 
 *Categoria: memoria, placa mãe, ...  
-*Nome da Peça: DDR 3  
-Fabricante: Intel  
-*Ano:1989  
-Descrição curta:  
-Curiosidade:  
+
+Cabeçalho  
+  Imagem  
+  *Nome da Peça: DDR 3  
+  Fabricante: Intel  
+  *Ano:1989  
+
+1a tela  
+  Descrição curta  
+
+2a tela (para saber mais)  
+Descrição longa  
+Curiosidade  
 
 _ para saber mais  
 Descrição longa:  
 Imagens:  
 
-Problema: gerar QRCode de dados do Firebase usando ID dos itens  
+## 2024-09-25 - 22:02
+
+/[Dalton] Problema: gerar QRCode de dados do Firebase usando ID dos itens  
+
+Tela linha do tempo: ajustes visuais  
+Tela QRCode: trazer de volta
+
+Miguel: marcar para separar as peças que irão pro teste acervo  
+  10 Peças ed 3 categorias diferentes  
+
+Leonardo (bolsista) LDTT: Play Store Google .. 
+ABBY
+http://github.com/LeoLSilva
+http://github.com/dalton-reis
+
+Olhar Acessibilidade no React  
+
+Projeto -> monografia .. e 
+  "engordar": texto sobre ontologia, capítulo (especificação)  
+  ajustar: mudar tecnologias  
