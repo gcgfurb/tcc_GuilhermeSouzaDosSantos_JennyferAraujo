@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "RetroTech",
+    "slug": "fireApp",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/retrotech.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/retrotech.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.retrotech.fireApp",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Este aplicativo precisa de acesso à câmera para escanear QR codes."
+      }
+    },
+    "android": {
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-retrotech.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.retrotech.fireApp"
+    },
+    "web": {
+      "favicon": "./assets/retrotech.png"
+    },
+    "newArchEnabled": false,
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow ${PRODUCT_NAME} to access your camera",
+          "microphonePermission": "Allow ${PRODUCT_NAME} to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "607627f0-f4ee-4b31-8c1e-080582ad873c"
+      }
+    }
+  }
+}

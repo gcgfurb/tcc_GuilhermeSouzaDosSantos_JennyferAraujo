@@ -1,0 +1,9 @@
+No celular, instalar o aplicativo Expo Go
+Baixar e instalar o Visual Studio Code no seu computador
+Baixar e instalar o Git no seu computador
+Baixar e instalar a versão LTS do Node.js
+Abrir o terminal ou prompt de comando e executar o Expo CLI (npm install -g expo-cli)
+Clonar o projeto do GitHub (git clone https://github.com/jennyferaraujo/retrotechtcc)
+Abrir o terminal para instalar dependência (npm install)
+Rodar o Projeto (npx expo start)
+No celular, abra o Expo Go e use a câmera do dispositivo para escanear o QR code exibido no terminal para carregar o aplicativo.
